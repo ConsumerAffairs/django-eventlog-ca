@@ -11,3 +11,7 @@ dist
 /manage.py
 .coverage
 /test_env/
+.claude/settings.local.json
+htmlcov/
+.pytest_cache/
+__pycache__/
